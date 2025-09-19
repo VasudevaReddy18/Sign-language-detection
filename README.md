@@ -49,5 +49,3 @@ MediaPipe: https://mediapipe.dev/ <br>
 Keras: https://keras.io/ <br>
 OpenCV: https://opencv.org/ <br>
 
-## Acknowledgements
-This project was inspired by the work of Ahmed Hassanien and his article "Real-Time American Sign Language Recognition using Deep Learning Neural Networks"
